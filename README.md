@@ -1,15 +1,21 @@
 # bun-stylex-example
 
-To install dependencies:
+Example app that demonstrates usage of (bun-plugin-stylex)[https://github.com/nedjulius/bun-plugin-stylex] with Bun bundler
 
-```bash
+## Usage
+
+To install the dependencies, run:
+
+```
 bun install
 ```
 
-To run:
+To build the project run:
 
-```bash
-bun run index.ts
+```
+npm run build
 ```
 
-This project was created using `bun init` in bun v1.0.33. [Bun](https://bun.sh) is a fast all-in-one JavaScript runtime.
+The build output will be generated in the `/dist` folder.
+
+Refer to `build.mjs` to see how the StyleX plugin is integrated in this example.
