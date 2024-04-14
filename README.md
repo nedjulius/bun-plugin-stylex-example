@@ -1,4 +1,4 @@
-# bun-stylex-example
+# bun-plugin-stylex-example
 
 Example app that demonstrates usage of [bun-plugin-stylex](https://github.com/nedjulius/bun-plugin-stylex) with Bun bundler
 
